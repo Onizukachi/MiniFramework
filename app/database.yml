@@ -1,0 +1,3 @@
+default: &default
+  adapter: sqlite
+  database: ./app/db/dev.sqlite3
