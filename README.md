@@ -1,0 +1,2 @@
+# MiniFramework
+Rails-like framework
